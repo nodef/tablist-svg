@@ -1,0 +1,23 @@
+{
+  "name": "tablist-svg",
+  "version": "0.0.1",
+  "description": "Generate SVG table on node.js (no tablist!).",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/tablist-svg.git"
+  },
+  "keywords": [
+    "tablist",
+    "svg"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodef/tablist-svg/issues"
+  },
+  "homepage": "https://github.com/nodef/tablist-svg#readme"
+}
