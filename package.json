@@ -1,6 +1,6 @@
 {
   "name": "tablist-svg",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generate SVG table on node.js (no tablist!).",
   "main": "index.js",
   "scripts": {
